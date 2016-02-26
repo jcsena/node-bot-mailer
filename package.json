@@ -1,0 +1,16 @@
+{
+  "name": "node-bot-mailer",
+  "version": "0.0.1",
+  "description": "Bot Mailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Sena",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "node-schedule": "^1.0.0",
+    "nodemailer": "^2.2.1"
+  }
+}
